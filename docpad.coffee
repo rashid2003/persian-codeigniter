@@ -2,7 +2,7 @@
 docpadConfig = {
 	templateData:
 		site:
-			title: "فقط برای تفریح"
+			title: "قانون اساسی افغانستان"
 }
 
 # Export the Configuration
