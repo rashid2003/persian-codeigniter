@@ -1,6 +1,6 @@
 ---
 layout: onepage
-title: قانون اساسی افغانستان
+title:مستندات کدایگنایتر
 ---
 
 <% for article in @getCollection("html").findAllLive({relativeOutDirPath: "chapters"},[{order:1}]).toJSON(): %>
