@@ -4,14 +4,12 @@ chapter: advanced
 order: 1
 ---
 
-#کتاب قانون اساسی افغانستان
-
+# مستندات کدایگنایتر
 <br />
 
-این سایت نمونه ی آزادیست از قانون اساسی افغانستان تصویب شده توسط لویی جرگه افغانستان.
-
+این سایت ترجمه ی آزاد از مستندات فریمورک کدایگنایتر هست
  [ ازش حمایت کنین](/support.html).
 
 
-<a href="/about.html" class="clearfix btn btn-lg btn-default" >شروع به خواندن کنید</a>
+<a href="/about.html" class="clearfix btn btn-lg btn-default" >نسخه ۳.۱.۱۰</a>
 
